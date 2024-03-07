@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Yuhang Chen (陈宇航), a junior undergraduate student at School of Computer Science, Wuhan University. My research interests lie in Federated Learning, Trustworthy Machine Learning, and AI-Generated Content. 
+
+Currently, I'm actively seeking Ph.D. positions to further pursue my research goals.
+
+Feel free to connect and discuss exciting opportunities or collaborations!
