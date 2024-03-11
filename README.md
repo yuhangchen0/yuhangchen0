@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Yuhang Chen (陈宇航), a junior undergraduate student at School of Computer Science, Wuhan University. 
 
-My research interests lie in Federated Learning, Trustworthy Machine Learning, and AI-Generated Content. 
+My research interests lie in Federated Learning and Trustworthy Artificial Intelligence. 
 
 Currently, I'm actively seeking Ph.D. positions to further pursue my research goals.
 
