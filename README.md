@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Yuhang Chen (陈宇航), a junior undergraduate student at School of Computer Science, Wuhan University. 
+I'm Yuhang Chen (陈宇航), a first-year CS PhD student at the University of North Carolina at Chapel Hill. 
 
-My research interests lie in Trustworthy AI, including Foundation Models and Federated Learning. 
+My research goal is to build reliable and generalizable foundation models for scientific and cross-domain intelligence.
 
-Currently, I'm actively seeking Ph.D. positions to further pursue my research goals.
+Specifically, I work on Embodied AI, AI4Science, and Trustworthy AI, leveraging techniques such as Diffusion, Reinforcement Learning, and Environment & Data Synthesis to develop systems that are robust under real-world faults, adversarial conditions, and novel scientific domains.
 
 Feel free to connect and discuss exciting opportunities or collaborations!
+
+Homepage: https://yuhangchen0.github.io/
